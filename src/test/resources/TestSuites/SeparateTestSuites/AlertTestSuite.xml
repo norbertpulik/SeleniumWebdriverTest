@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="AlertTests" verbose="1">
+
+    <test name="AlertTests">
+        <classes>
+            <class name="com.herokuapp.theinternet.alerttest.AlertTests" />
+        </classes>
+    </test>
+
+</suite>

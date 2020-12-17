@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="SmokeTests" verbose="1">
+
+    <listeners>
+        <listener class-name="com.herokuapp.theinternet.base.TestListeners"></listener>
+    </listeners>
+
+    <test name="PositiveLoginTest">
+        <classes>
+            <class name="com.herokuapp.theinternet.loginPageTest.PositiveLoginTests"/>
+        </classes>
+    </test>
+
+
+    <test name="AlertTest">
+        <classes>
+            <class name="com.herokuapp.theinternet.alerttest.AlertTests"/>
+        </classes>
+    </test>
+
+    <test name="UploadTest">
+        <classes>
+            <class name="com.herokuapp.theinternet.uploadTests.UploadTest"/>
+        </classes>
+    </test>
+
+</suite>
+

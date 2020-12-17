@@ -1,0 +1,13 @@
+com/herokuapp/theinternet/checkboxespagetest/CheckBoxesTest.class
+com/herokuapp/theinternet/uploadTests/UploadTest.class
+com/herokuapp/theinternet/dropdowntests/DropdownTest.class
+com/herokuapp/theinternet/alerttest/AlertTests.class
+com/herokuapp/theinternet/javascripterrrorstest/jsErrorTest.class
+com/herokuapp/theinternet/loginPageTest/PositiveLoginTests.class
+com/herokuapp/theinternet/loginPageTest/NegativeLoginTests.class
+com/herokuapp/theinternet/editortests/EditorTest.class
+com/herokuapp/theinternet/slidertests/SliderTest.class
+com/herokuapp/theinternet/draganddroptests/DragAndDropTests.class
+com/herokuapp/theinternet/keypresstests/KeyPressTest.class
+com/herokuapp/theinternet/hovertests/HoverTests.class
+com/herokuapp/theinternet/windowstests/WindowsTest.class
